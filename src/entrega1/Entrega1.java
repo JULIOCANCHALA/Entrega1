@@ -1,4 +1,3 @@
-//Entrega
 package entrega1;
 
 public class Entrega1 {
